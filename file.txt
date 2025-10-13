@@ -1,4 +1,4 @@
 hello git
 hi git
 bye 
-practice git
+pratice git
